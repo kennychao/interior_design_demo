@@ -1,0 +1,58 @@
+@import 'src/assets/scss/utils/variables';
+
+.btn {
+  width: 10.7142rem;  //150px
+  min-width: fit-content; // 預設防止按鈕文字折行
+  padding-top: 12px;
+  padding-bottom: 12px;
+  font-size: 16px;
+  text-align: center;
+  border-radius: 25px;
+  cursor: pointer;
+
+  &.t-primary {
+    color: white;
+    background: #69CEC9;
+    border: 1px solid #2A9D8F;
+    &:hover {
+      background: #1E5945;
+    }
+    &:active {
+      background: #1E5945;
+    }
+  }
+  &.t-second {
+    color: white;
+    background: #2A9D8F;
+    border: 1px solid #2A9D8F;
+    &:hover {
+      background: #1E5945;
+    }
+    &:active {
+      background: #1E5945;
+    }
+  }
+  &.t-default {
+    color: #2A9D8F;
+    background: white;
+    border: 1px solid #2A9D8F;
+    &:hover {
+      background: #69CEC9;
+      color: white;
+    }
+    &:active {
+      background: #69CEC9;
+      color: white;
+    }
+  }
+
+  &[disabled] {
+    opacity: 0.5;
+    cursor: default;
+  }
+}
+
+
+.mat-button:hover:not(.mat-button-disabled) .mat-button-focus-overlay, .mat-stroked-button:hover:not(.mat-button-disabled) .mat-button-focus-overlay {
+  opacity: 0 !important;
+}

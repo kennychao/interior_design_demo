@@ -1,0 +1,91 @@
+{
+  "Common": {
+    "Required": "此為必填",
+    "Submit": "送出",
+    "Confirm": "確定",
+    "OK": "確定",
+    "SubmitSucess": "成功送出"
+  },
+  "Header": {
+    "Nowlanguage": "中文",
+    "Home": "首頁",
+    "About": "關於我",
+    "WorkAndService": "作品 & 服務",
+    "Contact": "聯絡我",
+    "Blog": "看文章",
+    "ComingSoon": "敬請期待"
+  },
+  "ContentLayout": {
+    "GoToTop": "回頂部",
+    "ContactMe": "聯絡我"
+  },
+  "Welcome": {
+    "Intro1": "Hi, 我是 Chao 老趙",
+    "Intro2": "我是一位資深前端軟體工程師",
+    "Intro3": "最懂 NEED 需求",
+    "Intro4": "打造 你 的 網站",
+    "Intro5": "聯絡我",
+    "Intro_two1": "專業工作者",
+    "Intro_two2": "前端開發",
+    "Intro_two3": "網站建置",
+    "Intro_two4": "看服務",
+    "Title": {
+      "MyPortfolio": "作品",
+      "MySkills": "專業技能"
+    },
+    "SkillSet": {
+      "Frontend": "前端",
+      "Backend": "後端",
+      "Others": "其它",
+      "WebAccessibility": "無障礙網頁"
+    }
+  },
+  "Works": {
+    "Title": {
+      "Service": "服務項目",
+      "Process": "服務流程",
+      "Cases": "實作案例",
+      "QA": "問與答"
+    },
+    "FrontendDevelopment": "前端程式開發",
+    "UiImplementation": "畫面實作",
+    "RWD": "響應式網頁(RWD)",
+    "BackendIntegration": "後端串接",
+    "WebsiteConstruction": "網站建置 / 一頁式網站開發",
+    "PlanningDesign": "規劃設計",
+    "BuildingTesting": "建置測試",
+    "Launch": "上線驗收",
+    "NeedsDiscussion": "1.需求討論",
+    "NeedsDiscussion_desc": "首先我會與您討論需要哪些功能和設計風格，以便能為您提供適合的方案和報價。",
+    "ContractConfirmation": "2.確認合約",
+    "ContractConfirmation_desc": "在確定方案和報價後，我會編寫合約，以明確各方的責任和預算。",
+    "DesignPlanning": "3.設計規劃",
+    "DesignPlanning_desc": "一旦簽約，我會收集您的LOGO、公司簡介和產品信息，以幫助規劃網站的版面和設計。",
+    "InitialDraftProduction": "4.初稿製作",
+    "InitialDraftProduction_desc": "我將根據您的要求創建網站的初始版面，並與您進行確認和修改。",
+    "ProgrammingDevelopment": "5.程式開發",
+    "ProgrammingDevelopment_desc": "經過版面確認後，我會開始進行網站的程式開發，包括前端或後端的開發。",
+    "TestingAndOptimization": "6.測試與優化",
+    "TestingAndOptimization_desc": "在網站的開發和設計完成後，我會進行測試，並優化網站的各項功能，確保網站能夠正常運行和使用。",
+    "WebsiteLaunch": "7.網站上線",
+    "WebsiteLaunch_desc": "當網站開發和測試完成後，會上線網站並提供給您審核，確保網站的所有功能都能正常運作。",
+    "MaintenanceAndSupport": "8.維護與支持",
+    "MaintenanceAndSupport_desc": "我會監看網站主機有無異常，解決操作使用問題，並和您討論後續的新增功能，再報價。"
+  },
+  "Question": {
+    "Title": "問題與解答"
+  },
+  "Contact": {
+    "Title": "聯繫我吧",
+    "Desc1": "假如您對我的經歷、作品、技能有興趣，想要一起合作，或分享您的想法和意見",
+    "Desc2": "別猶豫，趕快聯絡我吧！",
+    "Desc3": "以下是我的聯絡方式，期待能跟您聊天交流！",
+    "Email": "信箱",
+    "GoogleForm": "表單",
+    "ClickThisLink": "點此連結",
+    "MessageToMe": "留言給我",
+    "Name": "您的稱呼",
+    "ContactWay": "聯絡方式(信箱\\電話\\Line)",
+    "Message": "想對我說的話?"
+  }
+}

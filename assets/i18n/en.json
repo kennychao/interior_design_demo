@@ -1,0 +1,91 @@
+{
+  "Common": {
+    "Required": "required",
+    "Submit": "submit",
+    "Confirm": "confirm",
+    "OK": "OK",
+    "SubmitSucess": "Submit Sucess"
+  },
+  "Header": {
+    "Nowlanguage": "English",
+    "Home": "Home",
+    "About": "About",
+    "WorkAndService": "Work & Service",
+    "Contact": "Contact",
+    "Blog": "Blog",
+    "ComingSoon": "coming soon"
+  },
+  "ContentLayout": {
+    "GoToTop": "Go to top",
+    "ContactMe": "Contact me"
+  },
+  "Welcome": {
+    "Intro1": "Hi, I'm Chao",
+    "Intro2": "I am a senior front-end software engineer",
+    "Intro3": "Needs First, Always",
+    "Intro4": "Build with Care",
+    "Intro5": "Contact Me",
+    "Intro_two1": "Professional freelancer",
+    "Intro_two2": "Front-end development",
+    "Intro_two3": "Website construction",
+    "Intro_two4": "View Services",
+    "Title": {
+      "MyPortfolio": "My Portfolio",
+      "MySkills": "My Skills"
+    },
+    "SkillSet": {
+      "Frontend": "Frontend",
+      "Backend": "Backend",
+      "Others": "Others",
+      "WebAccessibility": "Web Accessibility"
+    }
+  },
+  "Works": {
+    "Title": {
+      "Service": "Service",
+      "Process": "Process",
+      "Cases": "Cases",
+      "QA": "Q & A"
+    },
+    "FrontendDevelopment": "Front-end development",
+    "UiImplementation": "UI implementation",
+    "RWD": "Responsive Web Design (RWD)",
+    "BackendIntegration": "Backend integration",
+    "WebsiteConstruction": "Website construction / One-page website development",
+    "PlanningDesign": "Planning and design",
+    "BuildingTesting": "Building and testing",
+    "Launch": "Launch and acceptance testing",
+    "NeedsDiscussion": "1.Needs Discussion",
+    "NeedsDiscussion_desc": "First, I will discuss with you the required functions and design style, in order to provide you with a suitable solution and quotation.",
+    "ContractConfirmation": "2.Contract Confirmation",
+    "ContractConfirmation_desc": "After confirming the plan and quotation, I will write a contract to clarify the responsibilities and budget of each party.",
+    "DesignPlanning": "3.Design Planning",
+    "DesignPlanning_desc": "Once the contract is signed, I will collect your logo, company profile, and product information to help plan the website layout and design.",
+    "InitialDraftProduction": "4.Initial Draft Production",
+    "InitialDraftProduction_desc": "I will create the initial layout of the website based on your requirements, and confirm and modify it with you.",
+    "ProgrammingDevelopment": "5.Programming Development",
+    "ProgrammingDevelopment_desc": "After confirming the layout, I will begin developing the website, including front-end or back-end development.",
+    "TestingAndOptimization": "6.Testing and Optimization",
+    "TestingAndOptimization_desc": "After the development and design of the website is completed, I will perform testing and optimize its functions to ensure that the website can run and be used normally.",
+    "WebsiteLaunch": "7.Website Launch",
+    "WebsiteLaunch_desc": "After the website development and testing is completed, the website will be launched and provided to you for review to ensure that all functions of the website can operate normally.",
+    "MaintenanceAndSupport": "8.Maintenance and Support",
+    "MaintenanceAndSupport_desc": "I will monitor the website server for abnormalities, solve operation and usage problems, and discuss with you the addition of new functions and provide a new quotation."
+  },
+  "Question": {
+    "Title": "Q & A"
+  },
+  "Contact": {
+    "Title": "Right Now",
+    "Desc1": "If you are interested in my experience, work, and skills, and would like to collaborate or share your ideas and opinions",
+    "Desc2": "Don't hesitate, contact me now!",
+    "Desc3": "Below are my contact details, and I look forward to chatting with you!",
+    "Email": "Email",
+    "GoogleForm": "Google Form",
+    "ClickThisLink": "Click this link",
+    "MessageToMe": "Message to me",
+    "Name": "Your Name",
+    "ContactWay": "Contact Information",
+    "Message": "Your Message to Me:"
+  }
+}
